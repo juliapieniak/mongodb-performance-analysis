@@ -91,3 +91,28 @@ Larger collections required longer execution times, demonstrating the impact of 
 - Apache JMeter
 - Statistical Analysis
 - Data Engineering
+
+## Architecture
+![Architecure](screenshots/architecture.png)
+
+## Screenshots
+
+### MongoDB Atlas Cluster
+
+![Atlas Cluster](screenshots/atlas-cluster.png)
+
+### MongoDB Collections
+
+![Collections](screenshots/atlas-credits.png)
+![Collections](screenshots/atlas-titles.png)
+
+
+### JMeter Test Plan
+
+![JMeter](screenshots/get-titles-jmeter.png)
+![JMeter](screenshots/thread-jmeter.png)
+
+
+### Performance Results
+
+![Results](screenshots/filtered-response-time-test1.png)
